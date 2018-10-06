@@ -1,0 +1,1 @@
+Start time is friday at 4:02PM
