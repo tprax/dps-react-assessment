@@ -7,7 +7,7 @@ import {
 import axios from 'axios'
 
 class Beers extends React.Component {
-  state = { beers: {} }
+  state = { beers: [] }
 
   componentDidMount = () => {
     axios.get(`http://www.brewerydb.com/api/all_beers`)
